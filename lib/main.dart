@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
         primarySwatch: Colors.blue,
-      ),///这个是我第二次提交
+      ),///这个是我第二次提交master修改了一下
       home: MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
